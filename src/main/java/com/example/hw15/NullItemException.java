@@ -1,6 +1,6 @@
 package com.example.hw15;
 
-public class NullItemException extends RuntimeException {
+public class NullItemException extends RuntimeException  {
     public NullItemException() {
     }
 
